@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from db import get_data_from_db,search_meaning_name
 
-API_TOKEN = '5522911584:AAGVbmrya8r_U_paRbQRn0rrpnjfVnvjtvw'
+API_TOKEN = '5522911584:AAFAvKoczzT3vPfU_UxSn4Whj-7rrXSJPGg'
 
 bot = telebot.TeleBot(API_TOKEN)
 
